@@ -1,77 +1,57 @@
 # 👋 Hi, I'm Ishita Gupta
 
-### Aspiring Cloud & DevOps Engineer ☁️
+### ☁️ Aspiring Cloud & DevOps Engineer
 
-AWS | Linux | Git | GitHub | Jenkins | Docker | Terraform | CI/CD
-
-📧 ishitagupta605@gmail.com
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=800&lines=AWS+%7C+Jenkins+%7C+Docker+%7C+Terraform;Cloud+%26+DevOps+Engineer;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I am an aspiring Cloud & DevOps Engineer passionate about cloud infrastructure, automation, and DevOps practices.
-
-Currently gaining hands-on experience through DevOps internships and practical projects involving AWS, Linux, Jenkins, Docker, Terraform, Git, and CI/CD pipelines.
-
-I enjoy building real-world projects and continuously learning cloud technologies and automation tools.
+- 🌱 Currently learning DevOps & Cloud Technologies
+- ☁️ Hands-on with AWS, Linux, Jenkins, Docker & Terraform
+- 🔧 Building CI/CD pipelines and Infrastructure as Code projects
+- 🎯 Goal: Become a Cloud & DevOps Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Cloud
-- AWS EC2
-- IAM
-- S3
-- VPC
-
-### DevOps
-- Jenkins
-- Docker
-- Terraform
-- CI/CD
-
-### Operating Systems
-- Linux (Ubuntu)
-
-### Version Control
-- Git
-- GitHub
-
-### Programming
-- Python
-- SQL
-- YAML
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,terraform,linux,git,github,python,vscode" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### AWS EC2 Web Server Deployment
-Deployed and configured a web server on AWS EC2.
+### 🚀 Jenkins Automated Deployment Pipeline
+CI/CD pipeline using Jenkins and GitHub.
 
-### Jenkins Automated Deployment Pipeline
-Built a CI/CD pipeline using Jenkins and GitHub.
+### ☁️ AWS EC2 Web Server Deployment
+Deployed and managed web server on AWS EC2.
 
-### Terraform Infrastructure Automation
-Provisioned infrastructure using Terraform and Infrastructure as Code principles.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Jenkins Pipelines
-- Docker
-- Terraform
-- Kubernetes Fundamentals
-- AWS DevOps Practices
+### 🏗️ Terraform Infrastructure Automation
+Provisioned infrastructure using Terraform.
 
 ---
 
-## 🤝 Open To Opportunities
+## 📊 GitHub Stats
 
-- DevOps Internships
-- Cloud Internships
-- Junior DevOps Roles
-- Cloud Engineer Roles
+![Stats](https://github-readme-stats.vercel.app/api?username=ixhita12&show_icons=true)
+
+![Streak](https://streak-stats.demolab.com?user=ixhita12)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixhita12&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
+
+[Portfolio](YOUR_PORTFOLIO_URL)
+
+📧 ishitagupta605@gmail.com
