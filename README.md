@@ -1,63 +1,162 @@
-<h1 align="center">Ishita Gupta</h1>
+<div align="center">
 
-<h3 align="center">Cloud & DevOps Engineer in Progress ☁️</h3>
+# ☁️ Hi, I'm Ishita Gupta
 
-<p align="center">
-Building cloud infrastructure, automating deployments, and continuously learning modern DevOps practices.
+### 🚀 Aspiring Cloud & DevOps Engineer | AWS Enthusiast | Automation Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+Cloud+Infrastructure;Automating+Deployments+with+CI%2FCD;Learning+DevOps+One+Project+at+a+Time;AWS+%7C+Linux+%7C+Jenkins+%7C+Docker+%7C+Terraform" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/ishita-gupta-devops/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://ixhita12.github.io/My-Portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+I am an aspiring **Cloud & DevOps Engineer** passionate about building reliable cloud infrastructure, automating deployment workflows, and continuously exploring modern DevOps practices.
+
+My journey into Cloud and DevOps started with hands-on AWS projects and has gradually expanded into infrastructure automation, CI/CD implementation, Linux administration, and Infrastructure as Code.
+
+Currently, I am gaining practical experience through internships and project-based learning while strengthening my understanding of cloud technologies and automation tools.
+
+I enjoy solving infrastructure challenges, streamlining deployment processes, and learning technologies that help teams deliver software faster and more efficiently.
+
+---
+
+# 🎯 Current Focus
+
+🔹 Cloud Infrastructure on AWS
+
+🔹 CI/CD Pipeline Automation
+
+🔹 Infrastructure as Code with Terraform
+
+🔹 Docker Containerization
+
+🔹 Linux System Administration
+
+🔹 DevOps Best Practices
+
+🔹 Version Control & Collaboration
+
+---
+
+# 🛠️ Tech Stack
+
+### ☁️ Cloud Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
+### ⚙️ DevOps & Automation
 
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,docker,terraform,git,github" />
+</p>
 
-## About Me
+### 🖥️ Operating Systems
 
-I'm an aspiring Cloud & DevOps Engineer focused on cloud infrastructure, automation, and CI/CD practices.
+<p>
+<img src="https://skillicons.dev/icons?i=linux" />
+</p>
 
-Currently gaining hands-on experience through real-world projects and internships involving AWS, Linux, Jenkins, Docker, Terraform, Git, and GitHub.
+### 💻 Programming & Scripting
 
-### Current Focus
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
 
-- AWS Cloud Infrastructure
-- CI/CD Pipeline Automation
-- Infrastructure as Code (Terraform)
-- Docker Containerization
-- Linux Administration
+### 🛠️ Development Tools
 
+<p>
+<img src="https://skillicons.dev/icons?i=vscode" />
+</p>
 
+---
 
-## Tech Stack
+# 🚀 Featured Projects
 
-AWS • Linux • Jenkins • Docker • Terraform • Git • GitHub • Python • SQL
+## ☁️ AWS EC2 Web Server Deployment
 
+Designed and deployed a web server on AWS EC2 while implementing networking, security groups, remote access configuration, and cloud deployment best practices.
 
+---
 
-## Featured Projects
+## ⚙️ Jenkins Automated Deployment Pipeline
 
-### AWS EC2 Web Server Deployment
-Designed and deployed a web server on AWS EC2 while implementing networking and security best practices.
+Built a Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins and GitHub to automate software delivery workflows.
 
-### Jenkins Automated Deployment Pipeline
-Built an automated CI/CD workflow integrating GitHub repositories with Jenkins.
+---
 
-### Infrastructure as Code with Terraform
-Provisioned and managed infrastructure using Terraform following IaC principles.
+## 🏗️ Infrastructure as Code with Terraform
 
+Provisioned and managed infrastructure using Terraform while applying Infrastructure as Code principles for repeatable and scalable deployments.
 
+---
 
-## Experience
+## 🌐 Personal Portfolio Website
 
-### DevOps Intern — Elevate Labs
-Working on cloud and automation-focused projects while strengthening DevOps fundamentals.
+Developed and deployed a responsive portfolio website showcasing projects, skills, certifications, and learning journey.
 
-### DevOps Intern — CodeAlpha
-Building practical experience with DevOps tools, deployment workflows, and infrastructure automation.
+---
 
-## Connect
+# 📚 Learning Journey
 
-LinkedIn:
-www.linkedin.com/in/ishita-gupta-devops
+Currently exploring:
 
-Portfolio:
-ixhita12.github.io/My-Portfolio
+- Advanced Jenkins Pipelines
+- Docker Fundamentals & Containerization
+- Terraform Modules
+- Kubernetes Fundamentals
+- AWS DevOps Services
+- Monitoring & Logging Concepts
 
-Email:
-ishitagupta605@gmail.com
+---
+
+# 💼 Experience
+
+### DevOps Intern | Elevate Labs
+
+Working on real-world DevOps projects involving cloud infrastructure, CI/CD workflows, automation, and deployment practices.
+
+### DevOps Intern | CodeAlpha
+
+Gaining practical exposure to DevOps tools, Infrastructure as Code, automation concepts, and deployment pipelines.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ixhita12&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixhita12&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: ishitagupta605@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/ishita-gupta-devops/
+
+🌐 Portfolio:
+https://ixhita12.github.io/My-Portfolio/
+
+---
+
+### ⚡ Fun Fact
+
+I believe the best way to learn DevOps is not by reading about tools, but by building projects, breaking things, fixing them, and documenting the journey.
