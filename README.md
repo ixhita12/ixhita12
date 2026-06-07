@@ -18,7 +18,7 @@
 
 </div>
 
----
+
 
 # 💫 About Me
 
@@ -30,7 +30,7 @@ Currently, I am gaining practical experience through internships and project-bas
 
 I enjoy solving infrastructure challenges, streamlining deployment processes, and learning technologies that help teams deliver software faster and more efficiently.
 
----
+
 
 # 🎯 Current Focus
 
@@ -48,7 +48,7 @@ I enjoy solving infrastructure challenges, streamlining deployment processes, an
 
 🔹 Version Control & Collaboration
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -82,33 +82,36 @@ I enjoy solving infrastructure challenges, streamlining deployment processes, an
 <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
----
 
-# 🚀 Featured Projects
 
-## ☁️ AWS EC2 Web Server Deployment
+# 🚀 Projects & Implementations
 
-Designed and deployed a web server on AWS EC2 while implementing networking, security groups, remote access configuration, and cloud deployment best practices.
+### ☁️ AWS EC2 Web Server Deployment
+Launched and configured a web server on AWS EC2 with security groups, remote SSH access, and web hosting setup.
 
----
+### ⚙️ Jenkins Automated Deployment Pipeline
+Designed a CI/CD pipeline integrating GitHub and Jenkins to automate build and deployment workflows.
 
-## ⚙️ Jenkins Automated Deployment Pipeline
+### 🏗️ Terraform Infrastructure Automation
+Provisioned cloud resources using Infrastructure as Code (IaC) principles with Terraform.
 
-Built a Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins and GitHub to automate software delivery workflows.
+### 🌐 Personal Portfolio Website
+Developed and deployed a responsive portfolio website showcasing projects, skills, certifications, and professional journey.
 
----
+### 📊 Daily Report Management System
+Built a database-driven application for efficient report tracking and management using SQL and development fundamentals.
 
-## 🏗️ Infrastructure as Code with Terraform
+### 🐧 Linux Administration & Shell Operations
+Worked with Linux commands, file permissions, package management, user management, and server operations.
 
-Provisioned and managed infrastructure using Terraform while applying Infrastructure as Code principles for repeatable and scalable deployments.
-
----
+### 🔄 Git & GitHub Workflow Management
+Implemented branching, version control, repository management, and collaborative development workflows.
 
 ## 🌐 Personal Portfolio Website
 
 Developed and deployed a responsive portfolio website showcasing projects, skills, certifications, and learning journey.
 
----
+
 
 # 📚 Learning Journey
 
@@ -121,7 +124,7 @@ Currently exploring:
 - AWS DevOps Services
 - Monitoring & Logging Concepts
 
----
+
 
 # 💼 Experience
 
@@ -133,7 +136,6 @@ Working on real-world DevOps projects involving cloud infrastructure, CI/CD work
 
 Gaining practical exposure to DevOps tools, Infrastructure as Code, automation concepts, and deployment pipelines.
 
----
 
 # 📊 GitHub Statistics
 
@@ -143,7 +145,7 @@ Gaining practical exposure to DevOps tools, Infrastructure as Code, automation c
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixhita12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+
 
 # 🤝 Let's Connect
 
@@ -155,7 +157,7 @@ https://www.linkedin.com/in/ishita-gupta-devops/
 🌐 Portfolio:
 https://ixhita12.github.io/My-Portfolio/
 
----
+
 
 ### ⚡ Fun Fact
 
