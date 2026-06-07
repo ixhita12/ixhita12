@@ -112,20 +112,6 @@ Implemented branching, version control, repository management, and collaborative
 Developed and deployed a responsive portfolio website showcasing projects, skills, certifications, and learning journey.
 
 
-
-# 📚 Learning Journey
-
-Currently exploring:
-
-- Advanced Jenkins Pipelines
-- Docker Fundamentals & Containerization
-- Terraform Modules
-- Kubernetes Fundamentals
-- AWS DevOps Services
-- Monitoring & Logging Concepts
-
-
-
 # 💼 Experience
 
 ## DevOps Intern | Data Valley
