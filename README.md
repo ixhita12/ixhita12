@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 </p>
----
+
 
 ## 🚀 About Me
 
@@ -31,7 +31,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,terraform,git,github,python,vscode" />
 </p>
----
+
 
 ## 📌 Featured Projects
 
@@ -43,7 +43,7 @@ Built a CI/CD pipeline using Jenkins and GitHub.
 
 ### 🏗️ Infrastructure as Code with Terraform
 Provisioned cloud infrastructure using Terraform.
----
+
 
 ## 📊 GitHub Statistics
 
@@ -73,8 +73,8 @@ Provisioned cloud infrastructure using Terraform.
 
 ## 🌐 Connect With Me
 
-[LinkedIn]((https://www.linkedin.com/in/ishita-gupta-devops/))
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/ishita-gupta-devops/))
 
-[Portfolio]((https://ixhita12.github.io/My-Portfolio/))
+[Portfolio]([YOUR_PORTFOLIO_URL](https://ixhita12.github.io/My-Portfolio/))
 
 📧 ishitagupta605@gmail.com
