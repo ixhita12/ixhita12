@@ -128,23 +128,44 @@ Currently exploring:
 
 # 💼 Experience
 
-### DevOps Intern | Elevate Labs
+## DevOps Intern | Data Valley
 
-Working on real-world DevOps projects involving cloud infrastructure, CI/CD workflows, automation, and deployment practices.
+- Worked on practical cloud and DevOps projects focused on infrastructure management and automation.
+- Gained hands-on experience with AWS services, Linux administration, Git workflows, and deployment processes.
+- Implemented DevOps concepts through real-world tasks and project-based learning.
 
-### DevOps Intern | CodeAlpha
+## DevOps Intern | CodeAlpha
 
-Gaining practical exposure to DevOps tools, Infrastructure as Code, automation concepts, and deployment pipelines.
+- Working on industry-oriented DevOps assignments and automation-focused projects.
+- Building expertise in CI/CD pipelines, Infrastructure as Code, and cloud deployment workflows.
+- Strengthening practical knowledge of modern DevOps tools and engineering practices.
 
+
+# 📚 Currently Learning
+
+- Advanced Jenkins Pipelines
+- Docker & Containerization
+- Terraform Modules
+- Kubernetes Fundamentals
+- AWS DevOps Services
+- Monitoring & Observability
+- Cloud Security Best Practices
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ixhita12&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixhita12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ixhita12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixhita12&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ixhita12&theme=tokyonight&hide_border=true" />
+</p>
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ixhita12&theme=tokyo-night&hide_border=true" />
+</p>
 
 
 # 🤝 Let's Connect
