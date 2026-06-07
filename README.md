@@ -24,7 +24,7 @@
 - 🔧 Building CI/CD Pipelines and Infrastructure as Code projects
 - 📚 DevOps Intern at Elevate Labs & CodeAlpha
 - 🎯 Goal: Become a Cloud & DevOps Engineer
-## 🛠️ Tech Stack
+
 
 ## 🛠️ Tech Stack
 
@@ -73,8 +73,8 @@ Provisioned cloud infrastructure using Terraform.
 
 ## 🌐 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn]((https://www.linkedin.com/in/ishita-gupta-devops/))
 
-[Portfolio](YOUR_PORTFOLIO_URL)
+[Portfolio]((https://ixhita12.github.io/My-Portfolio/))
 
 📧 ishitagupta605@gmail.com
