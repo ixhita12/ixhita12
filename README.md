@@ -2,7 +2,7 @@
 
 # ☁️ Hi, I'm Ishita Gupta
 
-### 🚀 DevOps & DevSecOps Engineer | Azure | Terraform | CI/CD | Linux
+### 🚀 DevOps Engineer | Azure | Terraform | CI/CD | Linux
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Managing+Azure+Cloud+Infrastructure;Automating+with+Terraform+%26+IaC;Building+CI%2FCD+Pipelines;Orchestrating+with+Docker+%26+Kubernetes;DevSecOps+%7C+Monitoring+%7C+Automation" />
 
@@ -16,35 +16,36 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
 </a>
 
+<a href="mailto:ishitagupta605@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
 </div>
 
 <br>
 
 # 💫 About Me
 
-I'm a **DevOps and DevSecOps Engineer** with hands-on experience managing Microsoft Azure cloud infrastructure, including Linux-based virtual machines and containerized workloads.
+I'm passionate about DevOps and enjoy building reliable, automated, and scalable infrastructure through hands-on projects and real-world experience.
 
-I'm skilled in designing Infrastructure as Code (IaC) solutions with Terraform, building CI/CD pipelines (Azure DevOps, Jenkins, GitHub Actions), and orchestrating applications with Docker and Kubernetes. I also work with proactive monitoring and incident management using Prometheus, Grafana, and CloudWatch, and integrate code quality tools like SonarQube into pipelines.
+I've worked with Microsoft Azure and AWS, provisioning cloud infrastructure, managing Linux-based systems, writing Infrastructure as Code using Terraform, and building CI/CD pipelines with Azure DevOps, Jenkins, and GitHub Actions.
 
-I'm a proactive, methodical problem-solver with strong communication skills, eager to contribute to a 24/7 production support environment.
+I also work with Docker and Kubernetes, use tools like SonarQube, Prometheus, Grafana, and CloudWatch to improve code quality and observability, and enjoy automating repetitive tasks whenever possible.
 
+I'm currently expanding my expertise in DevSecOps, with a focus on integrating security into modern DevOps workflows while continuously building and documenting real-world projects.
 <br>
 
 # 🎯 Current Focus
 
-🔹 Azure Cloud Infrastructure (VMs, AKS, Resource Groups)
+* ☁️ Building and managing cloud infrastructure on **Microsoft Azure**
+* 🏗️ Automating infrastructure using **Terraform**
+* 🔁 Creating CI/CD pipelines with **Azure DevOps**, **Jenkins**, and **GitHub Actions**
+* 📦 Deploying and managing containerized applications using **Docker** and **Kubernetes**
+* 📊 Improving monitoring and observability with **Prometheus**, **Grafana**, and **CloudWatch**
+* 🐧 Strengthening **Linux** administration and automation through **Bash**, **PowerShell**, and **Azure CLI**
+* 🛡️ Learning and implementing **DevSecOps** practices in modern deployment workflows
+* 📚 Continuously building hands-on projects to strengthen real-world DevOps skills
 
-🔹 Infrastructure as Code with Terraform
-
-🔹 CI/CD Pipeline Automation (Azure DevOps, Jenkins, GitHub Actions)
-
-🔹 Docker & Kubernetes Orchestration
-
-🔹 DevSecOps & Static Code Analysis (SonarQube)
-
-🔹 Monitoring & Incident Management (Prometheus, Grafana, Azure Monitor)
-
-🔹 Linux Administration & Shell Scripting
 
 <br>
 
@@ -52,106 +53,142 @@ I'm a proactive, methodical problem-solver with strong communication skills, eag
 
 ### ☁️ Cloud Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws" />
-</p>
+* Microsoft Azure
+* AWS (EC2, IAM, VPC, S3, CloudWatch, ELB, AMI)
 
 ### ⚙️ IaC, CI/CD & Containers
 
-<p>
-<img src="https://skillicons.dev/icons?i=terraform,jenkins,docker,kubernetes,git,github" />
-</p>
+* Terraform
+* Azure DevOps
+* Jenkins
+* GitHub Actions
+* Docker
+* Docker Compose
+* Kubernetes (AKS)
+* Ansible (Basics)
 
 ### 📊 Monitoring & Code Quality
 
-<p>
-<img src="https://skillicons.dev/icons?i=grafana,prometheus,sonarqube" />
-</p>
+* Prometheus
+* Grafana
+* Grafana Loki
+* Azure Monitor
+* CloudWatch
+* SonarQube
 
 ### 🖥️ Operating Systems & Scripting
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell" />
-</p>
+* Linux (Ubuntu)
+* Bash / Shell Scripting
+* PowerShell
+* Azure CLI
+* SSH
+* PuTTY
 
 ### 💻 Programming & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,postgres" />
-</p>
+* Python
+* Java (Basics)
+* SQL
+* MySQL
+* PostgreSQL
+* MS SQL Server (Basics)
+* REST APIs
+* JSON
+* YAML
+
+### 🔧 Version Control & Collaboration
+
+* Git
+* GitHub
+* Jira
+
 
 <br>
+
+
 
 # 💼 Experience
 
-## DevOps Engineer (Intern) | DevOps Insiders — *Apr 2025 – Present*
+## 🔹 DevOps Engineer Intern | DevOps Insiders
 
-- Provisioned and administered Linux-based virtual machines on Microsoft Azure to support application infrastructure.
-- Designed and maintained Terraform-based IaC solutions for automated, repeatable resource provisioning.
-- Built and optimized CI/CD pipelines using Azure DevOps, Jenkins, and GitHub Actions.
-- Deployed and managed containerized applications using Docker and Kubernetes.
-- Integrated SonarQube into CI pipelines for static code analysis and code quality enforcement.
-- Automated operational tasks using Azure CLI and PowerShell to reduce manual effort.
-- Configured Prometheus, Grafana, and Grafana Loki for proactive monitoring and alerting.
-- Gained exposure to MS SQL Server environments, backup/recovery validation, and Azure cost optimization.
+**Apr 2025 – Aug 2026**
+
+- Provisioned and managed Linux-based virtual machines on **Microsoft Azure**.
+- Automated infrastructure provisioning using **Terraform** and Infrastructure as Code (IaC) practices.
+- Built CI/CD pipelines with **Azure DevOps**, **Jenkins**, and **GitHub Actions**.
+- Deployed and managed containerized applications using **Docker** and **Kubernetes**.
+- Integrated **SonarQube** into CI pipelines for static code analysis.
+- Automated operational tasks using **Azure CLI** and **PowerShell**.
+- Configured **Prometheus**, **Grafana**, and **Grafana Loki** for monitoring, logging, and alerting.
+- Gained exposure to **Azure cost optimization**, **MS SQL Server**, and production support workflows.
+
+
 
 <br>
 
-# 🚀 Projects
+# 🚀 Featured Projects
 
-### 🏗️ IaC with Terraform & Docker
-Designed Terraform configuration files to provision cloud infrastructure and automate the creation/teardown of a Dockerized Nginx server using the full `init → plan → apply → destroy` workflow — reducing manual setup time and eliminating configuration drift.
+## 🏗️ Infrastructure as Code with Terraform & Docker
 
-### ⚙️ Jenkins CI/CD Pipeline
-Built a Jenkins Declarative Pipeline integrating GitHub for source control and Docker for containerized deployment, enabling continuous delivery on every code push.
+Provisioned a Dockerized **Nginx** environment using **Terraform**, automating the complete infrastructure lifecycle with `init`, `plan`, `apply`, and `destroy`. The project demonstrates Infrastructure as Code (IaC) principles by creating repeatable deployments and minimizing manual configuration.
 
-### ☁️ EC2 Web Server Deployment
-Deployed a static website on an AWS EC2 instance, configuring Security Groups and SSH-based access controls for secure, reliable public access.
+**Tech Stack:** `Terraform` `Docker` `Nginx`
 
-### 🌐 Personal Portfolio Website
-Developed and deployed a responsive portfolio website showcasing projects, skills, and professional journey.
+---
+
+## ⚙️ Jenkins CI/CD Pipeline
+
+Built a **Declarative Jenkins Pipeline** to automate the build, test, and deployment workflow. Integrated **GitHub** for source control and **Docker** for containerized deployments, enabling a consistent CI/CD process triggered on every code change.
+
+**Tech Stack:** `Jenkins` `GitHub` `Docker`
+
+---
+
+## ☁️ AWS EC2 Web Server Deployment
+
+Deployed and hosted a static website on an **AWS EC2** instance. Configured **Security Groups** for controlled network access and used **SSH** for secure remote administration while following fundamental cloud security practices.
+
+**Tech Stack:** `AWS EC2` `Security Groups` `SSH`
+
 
 <br>
 
 # 📚 Currently Learning
 
-- Advanced Kubernetes & AKS
-- Terraform Modules
-- Ansible Automation
-- Cloud Security & DevSecOps Best Practices
-- Advanced Monitoring & Observability
+* Kubernetes & Azure Kubernetes Service (AKS)
+* Terraform Modules
+* Ansible Automation
+* DevSecOps (Trivy, OWASP & Secure CI/CD)
+* GitOps
+* Advanced Monitoring & Observability
 
 <br>
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ixhita12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixhita12&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ixhita12&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ixhita12&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ixhita12&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixhita12&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-# 📈 Contribution Activity
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ixhita12&theme=tokyo-night&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=ixhita12&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
-
-<br>
 
 # 🤝 Let's Connect
 
-📧 Email: ishitagupta605@gmail.com
+📧 **Email:** <a href="mailto:ishitagupta605@gmail.com">ishitagupta605@gmail.com</a>
 
-💼 LinkedIn: https://www.linkedin.com/in/ishita-gupta-devops/
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/ishita-gupta-devops/" target="_blank">linkedin.com/in/ishita-gupta-devops</a>
 
-🌐 Portfolio: https://ixhita12.github.io/My-Portfolio/
+🌐 **Portfolio:** <a href="https://ixhita12.github.io/My-Portfolio/" target="_blank">My Portfolio</a>
 
 <br>
-
-### ⚡ Fun Fact
-
-I believe the best way to learn DevOps is not by reading about tools, but by building projects, breaking things, fixing them, and documenting the journey.
+> "Every deployment teaches something. Every failure improves the next automation."
