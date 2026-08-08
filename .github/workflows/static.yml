@@ -3,6 +3,7 @@ name: Deploy Portfolio to GitHub Pages
 on:
   push:
     branches: ["portfolio"]
+
   workflow_dispatch:
 
 permissions:
@@ -19,26 +20,41 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: "24"
 
-      - run: npm install
+      - name: Install dependencies
+        run: npm install
 
-      - run: npm run build
+      - name: Build portfolio
+        run: npm run build
         env:
           NITRO_PRESET: node-server
 
-      - uses: actions/configure-pages@v5
+      - name: Verify build output
+        run: |
+          echo "Checking .output/public..."
+          ls -la .output/public
+          test -f .output/public/index.html
+          echo "index.html FOUND!"
 
-      - uses: actions/upload-pages-artifact@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload portfolio
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ".output/public"
 
-      - id: deployment
+      - name: Deploy to GitHub Pages
+        id: deployment
         uses: actions/deploy-pages@v4
