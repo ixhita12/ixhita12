@@ -19,7 +19,6 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-
     runs-on: ubuntu-latest
 
     steps:
@@ -36,8 +35,6 @@ jobs:
 
       - name: Build portfolio
         run: npm run build
-        env:
-          NITRO_PRESET: node-server
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
