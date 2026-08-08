@@ -19,6 +19,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
 
     steps:
@@ -28,13 +29,21 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
 
       - name: Install dependencies
         run: npm install
 
       - name: Build portfolio
         run: npm run build
+
+      # IMPORTANT: Verify that index.html exists before uploading
+      - name: Verify build output
+        run: |
+          echo "Checking .output/public..."
+          ls -la .output/public
+          test -f .output/public/index.html
+          echo "index.html FOUND!"
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
