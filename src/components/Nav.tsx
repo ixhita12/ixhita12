@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { Github, Linkedin, Menu, X, FileDown } from "lucide-react";
 import { NAV_LINKS, PROFILE } from "@/lib/portfolio-data";
-import resumeAsset from "@/assets/resume.pdf.asset.json";
 
 export function Nav() {
   const [scrolled, setScrolled] = useState(false);
@@ -65,7 +64,7 @@ export function Nav() {
             <Linkedin className="h-4 w-4" />
           </a>
           <a
-            href={resumeAsset.url}
+            href={`${import.meta.env.BASE_URL}resume.pdf`}
             download="Ishita_Gupta_Resume.pdf"
             className="hidden items-center gap-2 rounded-lg border border-primary/40 bg-primary/10 px-3.5 py-2 text-[13px] font-medium text-primary transition-all hover:bg-primary/20 sm:inline-flex"
           >
@@ -115,7 +114,7 @@ export function Nav() {
               <Linkedin className="h-3.5 w-3.5" /> LinkedIn
             </a>
             <a
-              href={resumeAsset.url}
+              href={`${import.meta.env.BASE_URL}resume.pdf`}
               download="Ishita_Gupta_Resume.pdf"
               className="flex flex-1 items-center justify-center gap-2 rounded-lg border border-primary/40 bg-primary/10 py-2 text-xs text-primary"
             >

@@ -3,7 +3,6 @@ import { Github, Linkedin, Mail, FileDown, Send } from "lucide-react";
 import { toast } from "sonner";
 import { PROFILE } from "@/lib/portfolio-data";
 import { Reveal } from "./Reveal";
-import resumeAsset from "@/assets/resume.pdf.asset.json";
 
 export function Contact() {
   const [form, setForm] = useState({ name: "", email: "", message: "" });
@@ -75,7 +74,7 @@ export function Contact() {
             </ul>
 
             <a
-              href={resumeAsset.url}
+              href={`${import.meta.env.BASE_URL}resume.pdf`}
               download="Ishita_Gupta_Resume.pdf"
               className="mt-6 inline-flex items-center gap-2 rounded-xl border border-border bg-surface px-4 py-2.5 text-sm font-medium transition-colors hover:border-primary/40"
             >
