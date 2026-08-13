@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="https://ixhita12.github.io/My-Portfolio/">
+<a href="https://ixhita12.github.io/ixhita12/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=google-chrome" />
 </a>
 
